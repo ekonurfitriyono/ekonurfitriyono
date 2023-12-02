@@ -1,6 +1,7 @@
-# Halo semua! 
+# Welcome everyone! 
 
-Perkenalkan nama saya **Eko Nurfitriyono**.<br>
+Hi, My name is **Eko Nurfitriyono**.<br>
+So, this is my GitHub, and most of my repositories here are the result of my practicing code. Hopefully, I can add more useful repo here in the future.
 
 ### Github Statistic
 <p align="left">
